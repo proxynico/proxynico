@@ -1,12 +1,12 @@
-### Nico Montero
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ship-dark.svg">
+  <img src="assets/ship-light.svg" width="100%" alt="A container ship named Not a Developer. Each stack is a month of pull requests my agents merged in 2026: 1 in April, 9 in May, 76 in June, 262 in July, 679 in August, 763 in September and over 1,000 in October.">
+</picture>
 
-I run LP Global and SUDx from Hong Kong. I build software for ocean-freight procurement and tools for my own workflow.
+I decide what to build. AI agents write the code, and other agents review it.
 
-Public projects:
+Most of it is for freight work and stays private. The public tools are below.
 
-- **[nico-apple-mcp](https://github.com/proxynico/nico-apple-mcp)** — Apple Calendar, Notes and Contacts for AI assistants.
-- **[nico-things-mcp](https://github.com/proxynico/nico-things-mcp)** — Things 3 for AI assistants.
-- **[setlist](https://github.com/proxynico/setlist)** — Apple Music from the command line.
-- **[rami](https://github.com/proxynico/rami)** — A macOS menu-bar monitor for memory, CPU and GPU.
+The agents run on a Mac mini with no screen: Claude, Codex and Grok in T3 Code, at the same time. Most days I give them work from my phone.
 
-[naicolas.com](https://naicolas.com) · [LP Global](https://lpglobalasia.com) · [SUDx](https://sudx.io)
+I post about building with agents on [X](https://x.com/naicolas) and about freight on [LinkedIn](https://www.linkedin.com/in/nicolasmonterog/).
