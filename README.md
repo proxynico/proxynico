@@ -1,12 +1,10 @@
-### Nico Montero
-
-I run LP Global and SUDx from Hong Kong. I build software for ocean-freight procurement and tools for my own workflow.
-
-Public projects:
-
-- **[nico-apple-mcp](https://github.com/proxynico/nico-apple-mcp)** — Apple Calendar, Notes and Contacts for AI assistants.
-- **[nico-things-mcp](https://github.com/proxynico/nico-things-mcp)** — Things 3 for AI assistants.
-- **[setlist](https://github.com/proxynico/setlist)** — Apple Music from the command line.
-- **[rami](https://github.com/proxynico/rami)** — A macOS menu-bar monitor for memory, CPU and GPU.
-
-[naicolas.com](https://naicolas.com) · [LP Global](https://lpglobalasia.com) · [SUDx](https://sudx.io)
+<pre>
+job        freight procurement
+company    <a href="https://lpglobalasia.com">LP Global Asia</a>
+side       <a href="https://sudx.io">SUDx</a>, shipping data
+based in   Hong Kong
+web        <a href="https://naicolas.com">naicolas.com</a>
+x          <a href="https://x.com/naicolas">@naicolas</a>
+linkedin   <a href="https://www.linkedin.com/in/nicolasmonterog/">nicolasmonterog</a>
+sleep      new dad
+</pre>
