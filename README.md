@@ -1,9 +1,7 @@
-<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ship-dark.svg">
   <img src="assets/ship-light.svg" width="100%" alt="A container ship named Not a Developer. Each stack is a month of pull requests my agents merged in 2026: 1 in April, 9 in May, 76 in June, 262 in July, 679 in August, 763 in September and over 1,000 in October.">
 </picture>
-</p>
 
 I decide what to build. AI agents write the code, and other agents review it.
 
